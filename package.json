@@ -19,7 +19,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
+<<<<<<< HEAD
     "eject": "react-scripts eject",
+=======
+    "eject": "react-scripts eject"
+>>>>>>> 1ba7bf22151cff08aa66aa3e133d8c776e6dbf6e
     "dev": "react-scripts start"
   },
   "browserslist": [
